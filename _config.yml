@@ -1,11 +1,11 @@
 # Site settings
-author: David Foote
-title: 
+author: David A. Foote
+title: Why Do I Find Coding to Be So Difficult?
 header-img: img/home-bg.png
 email: david.a.foote@gmail.com
-copyright_name: David Foote
+copyright_name: David A. Foote
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Can I Really Do This Coding Thing?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ZumbaIdol

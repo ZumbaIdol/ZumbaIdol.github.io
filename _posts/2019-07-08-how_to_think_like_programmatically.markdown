@@ -1,10 +1,11 @@
 ---
 layout: post
-title:      "How to Think Like "Programmatically""
-date:       2019-07-08 17:55:57 +0000
+title:      "How to Think "Programmatically""
+date:       2019-07-08 13:55:58 -0400
 permalink:  how_to_think_like_programmatically
 ---
 
+**Also known as "computational thinking"**
 
 I recently made a statement in a standup that one of my blockers was being able to think programmatically, which prompted me to do some research on how to become better at it.  What I discovered from the article I read about this subject is that I can actually *already* think like a programmer!  It stated that if you've tried exercises on sites like freeCodeCamp, Code Academy, or Code Wars, then you already know how to think like a programmer.  So, then, does the issue now become?  The article I read calls the issue **coder's block**.  It defines coder's block as being afraid that your code will fail, being afraid to face the errors, and not knowing how to begin.  Four steps are offered to assist with overcoming coder's block:
 

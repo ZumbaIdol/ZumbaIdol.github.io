@@ -85,6 +85,6 @@ delete '/movies/:id' do
   end
 ```
 	
-	One last interesting encounter I had while creating this app was tring to add a background image to replace the generic background created by the Corneal Gem.  For some reason, the default main.css file that comes with the gem wouldn't allow me to upload the image (I discovered this was a problem for others as well, including a fellow classmate).  The solution for this was to simply create another .css stylesheet and then "copy-pasta" the code from the original stylesheet to the newly created one.  The image I added is seen more clearly on the bottom image located here:
-![https://imgur.com/a/5K7nZT9](http://).  Happy coding!
+	
+One last interesting encounter I had while creating this app was tring to add a background image to replace the generic background created by the Corneal Gem.  For some reason, the default main.css file that comes with the gem wouldn't allow me to upload the image (I discovered this was a problem for others as well, including a fellow classmate).  The solution for this was to simply create another .css stylesheet and then "copy-pasta" the code from the original stylesheet to the newly created one.  The image I added is seen more clearly on the bottom image located here:   [https://imgur.com/a/5K7nZT9](http://).  Happy coding!
 

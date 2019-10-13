@@ -71,7 +71,7 @@ require_all 'app'
 I had the wrong version installed at first and it wouldn't run, nor would it allow my app to load when running "shotgun" 
 [https://learn.co/tracks/online-software-engineering-structured/sinatra/sinatra-basics/using-the-shotgun-development-server](http://).  Uninstalling the incorrect version was a little of a task because it kept showing up in the gemfile after supposedly being removed.  I removed everything flash related and re-ran "bundle install" and later reinserted the flash related code after installing the correct version as indicated in my code snippets above, rack-flash3.  Here's what happens if a user tries to delete data from another user:
 
-[https://imgur.com/a/5K7nZT9](http://)  The code behind this message comes from here: 
+[https://imgur.com/et0IFM9](http://)  The code behind this message comes from here: 
 
 ```
 delete '/movies/:id' do
@@ -87,5 +87,5 @@ delete '/movies/:id' do
 ```
 	
 	
-One last interesting encounter I had while creating this app was tring to add a background image to replace the generic background created by the Corneal Gem.  For some reason, the default main.css file that comes with the gem wouldn't allow me to upload the image (I discovered this was a problem for others as well, including a fellow classmate).  The solution for this was to simply create another .css stylesheet and then "copy-pasta" the code from the original stylesheet to the newly created one.  The image I added is seen more clearly on the bottom image located here:   [https://imgur.com/a/5K7nZT9](http://).  Happy coding!
+One last interesting encounter I had while creating this app was tring to add a background image to replace the generic background created by the Corneal Gem.  For some reason, the default main.css file that comes with the gem wouldn't allow me to upload the image (I discovered this was a problem for others as well, including a fellow classmate).  The solution for this was to simply create another .css stylesheet and then "copy-pasta" the code from the original stylesheet to the newly created one.  The image I added is seen more clearly on the bottom image located here:   https://imgur.com/zOOh6kW](http://).  Happy coding!
 

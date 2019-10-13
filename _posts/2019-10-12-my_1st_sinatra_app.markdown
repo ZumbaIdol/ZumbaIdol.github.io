@@ -72,6 +72,7 @@ I had the wrong version installed at first and it wouldn't run, nor would it all
 [https://learn.co/tracks/online-software-engineering-structured/sinatra/sinatra-basics/using-the-shotgun-development-server](http://).  Uninstalling the incorrect version was a little of a task because it kept showing up in the gemfile after supposedly being removed.  I removed everything flash related and re-ran "bundle install" and later reinserted the flash related code after installing the correct version as indicated in my code snippets above, rack-flash3.  Here's what happens if a user tries to delete data from another user:
 
 ![https://imgur.com/a/5K7nZT9](http://)  The code behind this message comes from here: 
+
 ```
 delete '/movies/:id' do
       movie_user = Movie.find_by_id(params[:id]).user
